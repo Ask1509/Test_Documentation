@@ -3,7 +3,7 @@
 [Чек-лист](https://tinyurl.com/kn7xyryx](https://docs.google.com/spreadsheets/d/13knHb_JKQ690UsHLNv-2XSAN5UFgoQkS-f1vv_5LoJg/edit?usp=share_link)
 
 ```
-[Тест-кейсы](https://tinyurl.com/4z622uu5](https://docs.google.com/spreadsheets/d/1CZz0eoZq5Ohfa4H-38_asgLnz2LVaO35-2Babx72wJM/edit?usp=share_link)
+[Тест-кейсы](https://docs.google.com/spreadsheets/d/1CZz0eoZq5Ohfa4H-38_asgLnz2LVaO35-2Babx72wJM/edit?usp=share_link)
 
 ```
 [Баг-репорт](https://tinyurl.com/3cn45fxx](https://docs.google.com/spreadsheets/d/1taCCzxLk__LqR0Hzjw3jtxXWk430KBqFiVCNPItyPTE/edit?usp=share_link)
