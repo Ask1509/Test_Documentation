@@ -2,10 +2,8 @@
 
 [Чек-лист](https://docs.google.com/spreadsheets/d/13knHb_JKQ690UsHLNv-2XSAN5UFgoQkS-f1vv_5LoJg/edit?usp=share_link)
 
-```
 [Тест-кейсы](https://docs.google.com/spreadsheets/d/1CZz0eoZq5Ohfa4H-38_asgLnz2LVaO35-2Babx72wJM/edit?usp=share_link)
 
-```
 [Баг-репорт](https://docs.google.com/spreadsheets/d/1taCCzxLk__LqR0Hzjw3jtxXWk430KBqFiVCNPItyPTE/edit?usp=share_link)
 
 ```
